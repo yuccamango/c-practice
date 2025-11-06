@@ -1,4 +1,4 @@
-<b>This is just a respository for my Python practice</b>
+<b>This is just a respository for my C practice</b>
 
 Practicing Resources:
 <ul>
