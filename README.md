@@ -5,4 +5,5 @@ Practicing Resources:
   <li>UMC labs</li>
   <li>CodeSignal</li>
   <li>LeetCode</li>
+  <li>Arduino IDE practice</li>
 </ul>
